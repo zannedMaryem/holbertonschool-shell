@@ -10,3 +10,9 @@ This folder contains simple shell scripts to practice basic commands.
   ```bash
   ./0-current_working_directory
 
+### 1-listit
+- **Description:**Display the contents list of your current directory.
+- **Usage:**
+  ```bash
+  ./1-listit
+
